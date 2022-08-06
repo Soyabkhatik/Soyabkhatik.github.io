@@ -1,1 +1,1 @@
-# odin-recipes
+# soyab-recipes
