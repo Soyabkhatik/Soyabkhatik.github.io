@@ -1,7 +1,7 @@
 # soyab-recipes
 
 # Links
-- [Try Recipe List here!](https://soyabkhatik.github.io/soyab-recipes/)
+- [Try Recipe List here!](https://soyabkhatik.github.io/)
 
 - [Link to the Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
 # About 
